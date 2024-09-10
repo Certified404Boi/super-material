@@ -26,8 +26,5 @@ grid view
 
 ![20240909_200349](https://github.com/user-attachments/assets/654f8dc6-63a9-4964-ba14-701dc29117ca)
 
-video support
-
-https://github.com/user-attachments/assets/f2b16740-6f42-4192-a488-05cd0a5af216
-
+it also has video support!
 
