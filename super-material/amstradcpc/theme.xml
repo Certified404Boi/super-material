@@ -1,0 +1,23 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../material.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<color>993434</color>
+		</image>
+
+		<text name="desc" extra="true">
+			<text>The Amstrad CPC (short for Colour Personal Computer) is a series of 8-bit home computers produced by Amstrad between 1984 and 1990.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed, grid, video">
+		
+		<image name="background">
+			<color>993434</color>
+		</image>
+
+	</view>
+</theme>

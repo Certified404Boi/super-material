@@ -1,0 +1,24 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../material.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<color>808080</color>
+		</image>
+
+		<text name="desc" extra="true">
+			<text>The Apple II was the first in a series of computers collectively referred to by the Apple II name. It was followed by the Apple II+, Apple IIe, Apple IIc, Apple IIc Plus, and the 16-bit Apple IIGS—all of which remained compatible. Production of the last available model, the Apple IIe, ceased in November 1993.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed, grid, video">
+		
+		<image name="background">
+			<color>808080</color>
+		</image>
+
+	</view>
+
+</theme>
