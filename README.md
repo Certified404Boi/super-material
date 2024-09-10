@@ -1,5 +1,5 @@
 # super-material
-A modified version of the material emulation station theme by lilbud (https://github.com/lilbud)
+A modified version of the material emulation station theme by lilbud with added systems and a modern look (https://github.com/lilbud)
 
 pixel consoles are made by ehettervik (https://github.com/ehettervik)
 
