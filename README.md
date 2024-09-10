@@ -10,12 +10,24 @@ extract the super-material.zip file then move the super-material folder to your 
 
 # available features
 
-basic style
+system view
+
+https://github.com/user-attachments/assets/7030376b-e3fa-453a-a8fd-effe01a764c3
+
+basic view
 
 ![20240909_200002](https://github.com/user-attachments/assets/4652cdd7-d11e-43db-94b8-888691aec662)
 
-detailed style
+detailed view
 
 https://github.com/user-attachments/assets/83d5ff39-4e7e-4488-83cf-6ec488ad890b
 
+grid view
+
+![20240909_200349](https://github.com/user-attachments/assets/654f8dc6-63a9-4964-ba14-701dc29117ca)
+
 video support
+
+https://github.com/user-attachments/assets/f2b16740-6f42-4192-a488-05cd0a5af216
+
+
