@@ -28,3 +28,4 @@ grid view
 
 it also has video support!
 
+if you want to get the cool scraped images yous skyscraper
